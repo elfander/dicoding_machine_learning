@@ -254,13 +254,13 @@ Pada gambar diatas, perusahan akan membaca bahwa mobil dengan owner sebelumnya a
 
 **Rubrik/Kriteria Tambahan (Opsional)**: 
 
-![MSE](https://d17ivq9b7rppb3.cloudfront.net/original/academy/2021071619431112f1106e20559e77c855cea11d1b1479.jpeg)
+![rumus mse](https://qph.cf2.quoracdn.net/main-qimg-7bc0215acc561adfe5bb8920751eea2f)
+source image :https://qph.cf2.quoracdn.net/main-qimg-7bc0215acc561adfe5bb8920751eea2f
 
 Penjelasan rumus :
 - 𝑁: Jumlah total pengamatan atau data point dalam dataset. Ini adalah ukuran populasi data yang digunakan untuk menghitung MSE.
 - yi: Nilai sebenarnya atau nilai aktual dari pengamatan ke-𝑖Ini adalah nilai yang diobservasi dari dataset.
-- 𝑦^𝑖(y_pred_i): Nilai yang diprediksi oleh model untuk pengamatan ke-𝑖Ini adalah output dari model regresi untuk input yang diberikan.
-- (yi−y^i)^2 : Kesalahan (error) untuk pengamatan ke-𝑖Ini adalah selisih antara nilai aktual dan nilai prediksi. Kuadrat dari kesalahan tersebut, Mengkuadratkan kesalahan membuat semua nilai positif (karena kesalahan bisa positif atau negatif) dan memperbesar pengaruh kesalahan yang lebih besar.
+- (yi−ŷi)^2 : Kesalahan (error) untuk pengamatan ke-𝑖Ini adalah selisih antara nilai aktual dan nilai prediksi. Kuadrat dari kesalahan tersebut, Mengkuadratkan kesalahan membuat semua nilai positif (karena kesalahan bisa positif atau negatif) dan memperbesar pengaruh kesalahan yang lebih besar.
 - ∑N-1=1: Simbol ini menunjukkan bahwa kita menjumlahkan kesalahan kuadrat untuk semua pengamatan dari 𝑖=1 hingga 𝑖=𝑁.
 - 1/N :  Membagi jumlah kesalahan kuadrat dengan jumlah pengamatan (N) untuk mendapatkan rata-rata kesalahan kuadrat. Inilah mengapa metrik ini disebut "Mean Squared Error."
 
