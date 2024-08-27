@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b6861dfa-9506-4687-b383-3fd28628428c)![image](https://github.com/user-attachments/assets/2e0bd335-c62a-4e86-91f4-2380c23eb024)# Laporan Proyek Machine Learning - M.Wahyu Elfander
+# Laporan Proyek Machine Learning - M.Wahyu Elfander
 
 ## Domain Proyek
 
