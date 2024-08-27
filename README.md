@@ -255,6 +255,7 @@ Pada gambar diatas, perusahan akan membaca bahwa mobil dengan owner sebelumnya a
 **Rubrik/Kriteria Tambahan (Opsional)**: 
 
 ![rumus mse](https://qph.cf2.quoracdn.net/main-qimg-7bc0215acc561adfe5bb8920751eea2f)
+---
 source image :https://qph.cf2.quoracdn.net/main-qimg-7bc0215acc561adfe5bb8920751eea2f
 
 Penjelasan rumus :
